@@ -1,0 +1,6 @@
+{
+  "name": "Amaterasu - AI Stress Assessment & Personalized Support",
+  "description": "AI-assisted stress vulnerability screening (SVI 0-100), natural voice conversational assessment, anonymous peer matching, and supportive care pathways.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
